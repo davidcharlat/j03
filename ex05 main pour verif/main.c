@@ -2,12 +2,11 @@
 
 int	main (void)
 {
-	char toto;
 	char *str;
 	int cursor;
 	int counter;
 
-	str = "toto";
+	str = "totori";
 	counter = 0;
 	cursor = 0;
 	
